@@ -6,7 +6,7 @@
 # Главная
 
 При регистрации учащегося, зарегристрированные данные об ученике попадают на главную страницу.
-![home_page](https://user-images.githubusercontent.com/94980092/160333559-19e3c029-de12-4453-a83a-516d7bbf571f.PNG ) { width: 200px; }
+<img src="https://user-images.githubusercontent.com/94980092/160333574-a392a084-71a3-4d00-97ae-1ce5fcaa0463.PNG" alt="drawing" width="200"/>
 
 
 # О нас
