@@ -7,7 +7,7 @@
 
 При регистрации учащегося, зарегристрированные данные об ученике попадают на главную страницу.
 
-<img src="https://user-images.githubusercontent.com/94980092/160333574-a392a084-71a3-4d00-97ae-1ce5fcaa0463.PNG" alt="drawing" width="500" height="500"/>
+![home_page](https://user-images.githubusercontent.com/94980092/160334159-533e622f-d08e-496f-8d18-ed7c04dbd5d6.PNG)
 
 
 # О нас
@@ -22,7 +22,7 @@
 ![admin_panel](https://user-images.githubusercontent.com/94980092/160333583-c5f65094-3930-4755-b484-9df356bcd6f7.PNG)
 
 
-#Войти.
+# Войти.
 
 Страница для входа.
 ![login](https://user-images.githubusercontent.com/94980092/160333591-c92b8540-8d8f-49bb-92c6-ab66e3a0ff57.PNG)
