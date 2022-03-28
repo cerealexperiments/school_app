@@ -15,6 +15,10 @@
 **Информация о сайте.**
 ![about_page](https://user-images.githubusercontent.com/94980092/160333574-a392a084-71a3-4d00-97ae-1ce5fcaa0463.PNG)
 
+## Рабочий процесс
+![20220328_110129](https://user-images.githubusercontent.com/94980092/160341561-576161fc-daaf-4569-bbb6-7aca024f2672.png)
+![20220328_110109](https://user-images.githubusercontent.com/94980092/160341590-bcba1517-3f8b-4159-a90b-508a930492f1.png)
+
 
 ## Панель админа
 
