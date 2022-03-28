@@ -1,3 +1,4 @@
+python-3.8.13
 Flask==2.0.3
 Pillow==9.0.1
 Flask_Wtf==1.0.0
