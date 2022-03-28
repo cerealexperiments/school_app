@@ -1,0 +1,25 @@
+{% extends "layout.html" %}
+{% block content %}
+    <h1>Учащиеся</h1>
+    {% for user in users %}
+        {% if user.active == 1 %}
+        <article class="media content-section">
+            <img class="rounded-circle article-mg" style="padding:20px; width: 150px; height: 150px;"
+                 src="{{ url_for("static", filename="profile_pics/" + user.image_file) }}">
+            <div class="media-body">
+                <div class="article-metadata" style="margin-bottom: 20px">
+                    <h5>{{ user.full_name }}</h5>
+                    <small class="text-muted">{{ user.email }}</small>
+                </div>
+                <p>Пол: {{ user.gender }}</p>
+                <p>Дата рождения: {{ user.date_of_birth }}</p>
+                <p>Телефонный номер: {{ user.phone_number }}</p>
+                <p>Адрес: {{ user.address }}</p>
+                <p>Класс: {{ user.grade }}</p>
+                <p>Плата за обучение: {{ user.tuition_fee }}</p>
+                <p>Дополнительная информация: {{ user.additional_info }}</p>
+            </div>
+        </article>
+        {% endif %}
+    {% endfor %}
+{% endblock content %}
