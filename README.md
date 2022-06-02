@@ -43,3 +43,10 @@
 **Страница для изменения данных о себе.**
 ![account](https://user-images.githubusercontent.com/94980092/160333606-5fdb2971-9ba6-4e90-924d-ee21133158e9.PNG)
 
+
+## Не зря трудились:
+![photo1648466014](https://user-images.githubusercontent.com/77735480/171692876-251494ed-b137-4700-b7e4-a0bb98ff04f0.jpeg)
+
+![photo1648466014 (1)](https://user-images.githubusercontent.com/77735480/171692932-c088d1bc-e466-4dfb-86da-8c1090f21a84.jpeg)
+
+
